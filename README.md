@@ -6,6 +6,16 @@ You will create a fungible token that is ERC-20 compliant and that will be minte
 
 The crowdsale contract that you create will manage the entire crowdsale process, allowing users to send ether to the contract and in return receive KAI, or KaseiCoin tokens. Your contract will mint the tokens automatically and distribute them to buyers in one transaction.
 
+## Evaluation Evidence
+- Crowdsale & Deployer Compiled [Image of compiled Crowdsale & Deployer Contracts](images/crowdsale-deployer_compiled.png)
+- Crowdsale & Deployer Deployed & interacted with [Image of deployed contract](images/crowdsale-deployer_deployed.png)
+- Token Contract Compiled [Image of compiled Token contract](images/kaseicoin_compiled.png)
+- Token Contract Deployed & actions taken on it [Image of token contract interactions](images/kaseicoin_deployed.png)
+- Enhanced Crowdsale & Deployer contract Compiled [Enhanced crowdsale/deployer](images/enhanced-crowdsale-deployer_compiled.png)
+- First Enhanced Crowdsale & Deployer deployed interactions [Enhanced interactions](images/enhanced-crowdsale-deployer_deployed-1.png)
+- Second Enhanced Crowdsale & Deployer deployed interactions [Enhanced interactions](images/enhanced-crowdsale-deployer_deployed-2.png)
+- Third Enhanced Crowdsale & Deployer deployed interactions [Enhanced interactions](images/enhanced-crowdsale-deployer_deployed-3.png)
+
 ### Instructions
 
 The steps for this Challenge are divided into the following sections:
